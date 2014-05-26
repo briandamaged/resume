@@ -1,8 +1,8 @@
 Usage
 ------------
 
-# Open resume.odt in Libre Office (AKA: Open Office)
-# Enjoy!
+1. Open resume.odt in Libre Office (AKA: Open Office)
+2. Enjoy!
 
 
 TODO

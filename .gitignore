@@ -1,1 +1,4 @@
 .~lock.resume.odt#
+
+# Ignore temporary files for Microsoft Office
+~$*

@@ -2,3 +2,6 @@
 
 # Ignore temporary files for Microsoft Office
 ~$*
+
+*.pdf
+.DS_Store
